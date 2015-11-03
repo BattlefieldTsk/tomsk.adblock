@@ -1,0 +1,34 @@
+[Adblock Plus 1.1]
+! Checksum: RABmFKO4jQ2o00Z9CdeWEQ
+! Version: 201511040033
+! Title: Tomsk List
+! Expires: 5 days
+!
+avito.ru##.sendout.js-sendout
+avito.ru##.vips
+avito.ru##.catalog-promo
+
+e2e4online.ru##.mxpromo
+
+dns-shop.ru###owlSlider
+
+habrahabr.ru##.adb-plashka
+habrahabr.ru##.dont-add-our-site-pls
+
+hlmod.ru##IMG[style="width: 468px; height: 60px;"]
+
+gametracker.com##.block_ad303x1000_right
+gametracker.com##.block_ad303x1000_left
+
+mail.ru##.games
+
+mail.qip.ru###zfix
+
+rabota.yandex.ru##.promo.i-bem.promo_js_inited
+rabota.yandex.ru##.search-results__guadeloupe
+
+sysadmin.tomsk.com##P[align="center"] IMG
+
+ucrazy.ru##.ad
+
+yandex.ru##.head-stripe.i-bem.head-stripe_js_inited
