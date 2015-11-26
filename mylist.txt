@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Checksum: 93QmoGRU7zRkzIFTPq08Xg
-! Version: 201511161433
+! Checksum: GGduzfRhq2FOi+qXynlj7w
+! Version: 201511261126
 ! Title: Tomsk List
 ! Expires: 5 days
 !
@@ -11,6 +11,9 @@ avito.ru##.catalog-promo
 e2e4online.ru##.mxpromo
 
 dns-shop.ru###owlSlider
+
+farmakopeika.ru###overlay_rstbox_1
+farmakopeika.ru##.rstboxes
 
 habrahabr.ru##.adb-plashka
 habrahabr.ru##.dont-add-our-site-pls
