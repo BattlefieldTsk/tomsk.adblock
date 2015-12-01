@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Checksum: GGduzfRhq2FOi+qXynlj7w
-! Version: 201511261126
+! Checksum: 5NFE2I11IiYWMQN3ohPcdg
+! Version: 201512011350
 ! Title: Tomsk List
 ! Expires: 5 days
 !
@@ -20,6 +20,7 @@ habrahabr.ru##.dont-add-our-site-pls
 
 hlmod.ru##IMG[style="width: 468px; height: 60px;"]
 
+gametracker.com##.ad_640x480
 gametracker.com##.block_ad303x1000_right
 gametracker.com##.block_ad303x1000_left
 
