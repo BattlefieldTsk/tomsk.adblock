@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Checksum: 3UP9trfhBThwvhSNOPrOKw
-! Version: 201701181110
+! Checksum: OuMy6qbcdUW18LCH+kK5Rw
+! Version: 201703111546
 ! Title: Tomsk List
 ! Expires: 5 days
 !
@@ -33,6 +33,7 @@ mail.qip.ru###zfix
 rabota.yandex.ru##.promo.i-bem.promo_js_inited
 rabota.yandex.ru##.search-results__guadeloupe
 
+||sd.tom.ru/images/banners/*
 sysadmin.tomsk.com##P[align="center"] IMG
 
 termo.tomsk.ru##.bnrs_60
